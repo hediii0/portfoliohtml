@@ -1,0 +1,12 @@
+body{ 
+    background-color: lightcoral;
+    font-family:'Roboto' ;
+}
+
+.Navbar{
+  display: inline;
+  
+}
+h2{
+  align-items: center;
+}
